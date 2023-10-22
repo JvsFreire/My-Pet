@@ -24,7 +24,17 @@ form {
   flex-direction: column;
 }
 
-form input{
+form input {
+  color: #58555D;
+  font-size: 16px;
+  justify-content: space-between;
+  margin-bottom: 15px;
+  padding: 10px 20px;
+  border-radius: 7px;
+  border: 1px solid #686868;
+}
+
+form select {
   color: #58555D;
   font-size: 16px;
   justify-content: space-between;

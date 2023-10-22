@@ -27,6 +27,7 @@ main section article {
     font-size: 18px;
     font-weight: 300;
     padding-top: 20px;
+    text-align: justify;
   }
   article .two-content h3{
     color: salmon;
@@ -34,6 +35,13 @@ main section article {
     font-weight: 400;
     padding-top: 60px;
   }  
+
+  article .two-content h4 {
+    color: sandybrown;
+    font-size: 50px;
+    font-weight: 400;
+    text-align: left;
+  }
   main .content-article {
     display: flex;
     justify-content: space-between;
